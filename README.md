@@ -1,1 +1,2 @@
-flash4ka's SpazeZ
+flash4ka.github.io
+SpaseZ
